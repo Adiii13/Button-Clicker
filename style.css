@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color:Red;
+     font-size:60px;
+   }
+   button{
+     background-color:yellow;
+     cursor:pointer;
+     
+     
+   }
+   button:active{
+     background-color:blue;
+   }
