@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: bisque;
-    background-image: url(https://images6.alphacoders.com/568/568500.jpg);
+    background-image: url("https://images6.alphacoders.com/568/568500.jpg");
     background-repeat: no-repeat;
 }
     
