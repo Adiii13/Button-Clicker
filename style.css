@@ -1,17 +1,43 @@
-body{
+body {
     text-align: center;
+    background-color: bisque;
+    background-image: url(https://images6.alphacoders.com/568/568500.jpg);
+    background-repeat: no-repeat;
+}
+    
+    
+
+h1 {
+    color: Red;
+    font-size: 60px;
 }
 
-h1{
-    color:Red;
-     font-size:60px;
-   }
-   button{
-     background-color:yellow;
-     cursor:pointer;
-     
-     
-   }
-   button:active{
-     background-color:blue;
-   }
+button {
+    background-color: rgb(214, 214, 115);
+    cursor: pointer;
+
+
+}
+
+button:active {
+    background-color: rgb(123, 123, 217);
+}
+button:hover{
+    transform: scale(1.5);
+}
+
+a{
+     text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px; 
+}
+
+h3{
+    font-size:30px;
+}
+
+.insta{
+    position: relative;
+    left: 20px;
+}
+
